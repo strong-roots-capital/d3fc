@@ -63,7 +63,7 @@
     "copyfiles": "^1.0.0",
     "cross-env": "^4.0.0",
     "custom-event-polyfill": "^0.3.0",
-    "d3": "^4.4.0",
+    "d3": "^4.9.0",
     "d3-svg-legend": "^2.18.0",
     "d3fc-scripts": "^1.6.2",
     "fs-promise": "^2.0.0",
